@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EeJAjYzgM7yvsChCfzJbAi76zIbMRi5gW5CbBs+pmnEBNNXwHos/H0AG9TbNe0xC1mjUKk11WNLMkHV+1kZHVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Дарья\\source\\repos\\ежедневник\\ежедневник\\ежедневник.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дарья\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
